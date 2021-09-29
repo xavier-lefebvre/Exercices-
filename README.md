@@ -1,2 +1,2 @@
 # Exercices-
-Les exercices TP Web développeur.
+Sur ce dépôt, les exercices réalisé en cours de développeur web
